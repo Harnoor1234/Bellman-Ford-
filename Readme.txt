@@ -55,6 +55,4 @@ For example - java Client 4115 10 192.168.63.1 4116 5.0
 
 This should run.
 
-Pleae give me good marks...;).
-
 
